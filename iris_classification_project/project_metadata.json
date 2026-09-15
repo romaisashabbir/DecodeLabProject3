@@ -1,0 +1,10 @@
+{
+  "project": "DecodeLabs Project 2",
+  "title": "Data Classification Using AI",
+  "dataset": "Iris",
+  "algorithm": "K-Nearest Neighbors",
+  "split": "80/20 stratified",
+  "preprocessing": "StandardScaler in Pipeline",
+  "tuning": "5-fold StratifiedKFold, macro F1",
+  "language": "Python"
+}
